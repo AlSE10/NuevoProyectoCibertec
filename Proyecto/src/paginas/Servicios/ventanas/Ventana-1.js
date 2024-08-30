@@ -1,7 +1,7 @@
 import { Fragment } from "react";
 import Album from "../Componentes/Album";
 import CambiaColor from "../Componentes/Titulo";
-import './../ventanas/ventana-1.css'
+import './ventana-1.css';
 function Ventana1(){
     return(
        <>

@@ -106,4 +106,10 @@ body{
   transform: scale(1.2); /* Aumenta el tamaño en un 20% */
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Sombra al pasar el mouse */
 }
+footer{
+ margin-top: 600px;
+}
+Menu{
+margin-top: 5px;
+}
 

@@ -1,11 +1,11 @@
 
 /* ventana1*/
 .header-ventana1 h3{
-    color: aliceblue
+    color: rgb(101, 221, 230)
 }
 .h1-ventana1{
     margin-top: 50px;
-    color: aqua;
+    color: rgb(189, 230, 231);
 }
 .contenedor1-text-ventana1{
     width: 35%;
